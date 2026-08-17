@@ -1,0 +1,27 @@
+Excel Comparison Summary
+-----------------------
+
+THEIRS File: THEIRS.xlsx
+OURS File: OURS.xlsx
+
+Sheets Compared: 2
+
+Same Cells:       3
+Modified Cells:   6
+Added Cells:      2
+Deleted Cells:    3
+
+Employees
+---------
+Same:       3
+Modified:   6
+Added:      0
+Deleted:    3
+
+Del
+---
+Same:       0
+Modified:   0
+Added:      2
+Deleted:    0
+
