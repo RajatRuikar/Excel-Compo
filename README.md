@@ -8,23 +8,7 @@ The application provides a simple workflow to select two Excel files, compare th
 
 ## Application Workflow
 
-```text
-1. Launch Application
-        |
-        v
-2. License Key Authentication
-        |
-        v
-3. Select Excel Files
-   ├── Original Excel (Base File)
-   └── Modified Excel (Modified File)
-        |
-        v
-4. Run Smart Comparison Engine
-        |
-        v
-5. Generate Comparison Report
-```
+ ![Application Workflow](docs/images/Mermaid.gif)
 
 ## Workflow Details
 
