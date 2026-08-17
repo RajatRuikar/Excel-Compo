@@ -102,6 +102,14 @@ GRAY   → Deleted
 - Maven
 - Microsoft Excel or a compatible spreadsheet application for viewing the generated report
 
+## 📩 Want to Try It?
+
+If you would like to try the application, test the Excel comparison workflow, or share feedback, feel free to get in touch.
+
+**Email:** rajat1ruikar@gmail.com
+
+Feedback, suggestions, and testing experiences are welcome.
+
 ## Project Status
 
 🚧 **Fully Development, Under Testing**
